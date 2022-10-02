@@ -180,7 +180,15 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project.
 
-# Result: Employee Tracker
+# Result Screenshots: Employee Tracker
+
+<img width="1957" alt="Screen Shot 2022-10-02 at 5 40 40 PM" src="https://user-images.githubusercontent.com/15242022/193477774-61e06ed7-64ab-419e-9d7c-e2238505ecd3.png">
+
+<img width="1957" alt="Screen Shot 2022-10-02 at 5 41 02 PM" src="https://user-images.githubusercontent.com/15242022/193477806-11de99d2-cc5a-45cf-b39b-6042e9e9dc47.png">
+
+<img width="1957" alt="Screen Shot 2022-10-02 at 5 41 28 PM" src="https://user-images.githubusercontent.com/15242022/193477816-71629b9a-fac6-4591-8457-f81314e67c30.png">
+
+<img width="1957" alt="Screen Shot 2022-10-02 at 5 41 47 PM" src="https://user-images.githubusercontent.com/15242022/193477830-1e75ce64-52de-4cc2-a521-2398392cea01.png">
 
 
 # Walktrough Video: Employee Tracker
